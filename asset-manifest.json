@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cotizador-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cotizador-react/static/js/main.6325e1b5.chunk.js",
+    "main.js.map": "/cotizador-react/static/js/main.6325e1b5.chunk.js.map",
+    "runtime-main.js": "/cotizador-react/static/js/runtime-main.088b7bd7.js",
+    "runtime-main.js.map": "/cotizador-react/static/js/runtime-main.088b7bd7.js.map",
+    "static/js/2.272932f6.chunk.js": "/cotizador-react/static/js/2.272932f6.chunk.js",
+    "static/js/2.272932f6.chunk.js.map": "/cotizador-react/static/js/2.272932f6.chunk.js.map",
+    "index.html": "/cotizador-react/index.html",
+    "precache-manifest.5c2cb21b5b943969107cbfd7c25fc41d.js": "/cotizador-react/precache-manifest.5c2cb21b5b943969107cbfd7c25fc41d.js",
+    "service-worker.js": "/cotizador-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cotizador-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.272932f6.chunk.js.LICENSE.txt": "/cotizador-react/static/js/2.272932f6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cotizador-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.088b7bd7.js",
+    "static/js/2.272932f6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6325e1b5.chunk.js"
+  ]
+}
