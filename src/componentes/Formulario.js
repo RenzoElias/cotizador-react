@@ -27,7 +27,7 @@ class Formulario extends Component {
         //el this no esta apuntando correctamente(por el tema de la herencia extends de la clase), para solucionarlo se agrega en .bind(this) para que apunte que es de esta clase correctamente
 
         
-        // Obtener los datos
+        // -Obtener los datos
         // console.log(this.marcaRef.current.value);
             // operador condicional ternario JS // https://www.w3schools.com/js/js_comparisons.asp
             // JavaScript también contiene un operador condicional que asigna un valor a una variable en función de alguna condición.
@@ -35,7 +35,7 @@ class Formulario extends Component {
             // variablename = (true o false) ?  retornara esto Si es true : retornara esto Si es false      
         const plan = this.planBasicoRef.current.checked ? 'basico' : 'completo'
 
-        // Crear el objeto
+        // -Crear el objeto
         const infoAuto = {
             marca: this.marcaRef.current.value,
             year: this.yearRef.current.value,
@@ -44,11 +44,11 @@ class Formulario extends Component {
 
         // console.log(infoAuto);
 
-        // Enviarlo al componente principal
-        this.props.cotizarSeguro(infoAuto)
+        // -Enviarlo al componente principal
+        this.props.cotizarSeguroo(infoAuto)
 
         // Opcional
-        // Resetear el formulario (para que se vuelva a renderizar)
+        // -Resetear el formulario (para que se vuelva a renderizar)
         // console.log(e.currentTarget)
         // e.currentTarget.reset();
 
